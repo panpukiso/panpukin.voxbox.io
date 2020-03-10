@@ -24,8 +24,8 @@ header h1{
 
 .btn{
   display: inline-block;
-  float: right;
   line-height: 50px;
+  margin-left: 10px;
 }
 
 .twi{
