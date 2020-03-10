@@ -14,7 +14,6 @@ header{
 
 header h1{
   color: white;
-  font-family: kawaii;
   margin: 0;
   padding-left: 10px;
   font-size: 15px;
@@ -33,6 +32,7 @@ header h1{
   text-decoration: none;
   background-color: rgba(135,206,250,0.8);
   padding: 2px 5px;
+  
 }
 
 .insta{
@@ -178,7 +178,7 @@ header h1{
 .ending{
   width: 300px;
   margin: auto;
-  border-top: 1px solid #808080 ;
+  border-top: 1px solid #808080;
   text-align: center;
   padding: 20px 0 20px 0;
 }
