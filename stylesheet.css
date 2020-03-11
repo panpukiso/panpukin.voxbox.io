@@ -52,9 +52,8 @@ header h1{
 }
 
 .top-picture {
-  display: inline-block;
   width: 600px;
-  margin: 0 auto;
+  text-align: center;
   height: 400px;
   opacity: 0.8;
   position: relative;
