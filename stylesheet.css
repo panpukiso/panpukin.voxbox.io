@@ -51,7 +51,8 @@ header h1{
   text-align: center;
 }
 
-.top-picture {
+.syuugou {
+  display: block;
   width: 600px;
   height: 400px;
   opacity: 0.8;
