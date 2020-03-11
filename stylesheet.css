@@ -51,10 +51,10 @@ header h1{
   text-align: center;
 }
 
-.top-picture {
-  width: 500px;
+.syuugou {
+  width: 600px;
   margin: 0 auto;
-  height: 350px;
+  height: 400px;
   opacity: 0.8;
   position: relative;
 }
