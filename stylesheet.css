@@ -25,6 +25,7 @@ header h1{
   display: inline-block;
   line-height: 100px;
   margin-left: 20px;
+  text-align: right;
 }
 
 .twi{
@@ -63,6 +64,7 @@ header h1{
   font-size: 40px;
   color: white;
   width: 100%;
+  margin: 0 auto;
   position: absolute;
   top: 230px;
 }
